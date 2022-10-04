@@ -12,9 +12,8 @@ i = 1
 # tant que 1 est inférieur ou égal à mon chiffre choisi je multiplie mon '#'' de pyr par i qui prends +1 à chaque ligne 
 
 while i <= numb 
-    espace = (numb-i)*2 
 
-puts esapce = (pyr * i ) 
+puts (pyr * i) 
 i += 1 
 
 end 
